@@ -1,4 +1,4 @@
- Hi, I’m Vitor R. M. Elias @vtrmeireles
+ Hi, I’m Vitor R. M. Elias @vtrmeireles.\
  I’m interested in graph signal processing and machine learning
 
 <!---
